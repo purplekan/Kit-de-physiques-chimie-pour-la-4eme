@@ -106,7 +106,7 @@ Une fois ce TP bien réalisé, vous serez en mesure de soulever la feuille grâc
 
 Mettez le clou sur la table. Puis recouvrez le avec le papier.  
 A l'aide de l'aimant, essayez d'attirer le clou qui se trouve sous la feuille.
-Cela doit se faire selon la disposition suivante :
+Cela doit se faire selon la disposition suivante :  
 Aimant  
   |  
 Papier  
@@ -144,6 +144,8 @@ A la fin de ce TP, vous serez en mesure de créér votre propre source de tensio
  A l'aide du fil, attachez l'aimant droit au support vertical.  
  Introduisez la tige de fer à l'intérieur de la bobine puis reliez les bornes de la bobine à l'oscilloscope.
 Placez la bobine et l'oscilloscope près du support vertical.
-Enfin mettez l'aimant droit en rotation (en tordant le fil qui le relie au support vertical)
+Enfin mettez l'aimant droit en rotation (en tordant le fil qui le relie au support vertical).
+
+Vous pouvez à présent constater sur votre oscilloscope la variation du sens de la tension.
 
 
