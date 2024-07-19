@@ -175,3 +175,14 @@ Aux bornes de l'enroulement 1, branchons la source de tension alternative et aux
 
 On peut remarquer qu'il existe une relation de proportionnalité entre la tension en entrée (source alternative) et la tension en sortie ( tension mesurée par le voltmètre à l'enroulement 2).  
 
+### 4.e - TP LEÇON 6 SÉANCE 3  
+Le but de ce TP est de prouver l'existence de la poussée d'Archimède et de ses effets sur les corps immergés.
+A la fin de ce TP, vous serez en mesure de comprendre l'influence des liquides sur les coprs qui y sont immergés.  
+
+**Matériel nécessaire :**  
+- cube plein (modélisé et imprimé)
+- cuvette (non présent dans le kit)
+- eau (non présente dans le kit)
+- dynamomètre (non présent dans le kit)
+
+
