@@ -171,5 +171,7 @@ A la fin de ce TP, vous serez en mesure de déterminer le rapport existant entre
 
 Enroulez la bobine la plus longue autour d'un des côtés du cadre métallique. Appelons cela l'enroulement 1.
 Enroulez ensuite la bobine la moins longue autour du côté opposé au précédent. Appelons cela l'enroulement 2.
-Aux bornes de l'enroulement 1, branchons la source de tension alternative et aux bornes de l'enroulement 2, branchons le voltmètre.
+Aux bornes de l'enroulement 1, branchons la source de tension alternative et aux bornes de l'enroulement 2, branchons le voltmètre.  
+
+On peut remarquer qu'il existe une relation de proportionnalité entre la tension en entrée (source alternative) et la tension en sortie ( tension mesurée par le voltmètre à l'enroulement 2).  
 
