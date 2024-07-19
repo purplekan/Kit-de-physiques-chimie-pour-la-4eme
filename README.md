@@ -94,3 +94,37 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 |                                | Sulfate en graphite               |  
 
 ### 4 - TP  
+
+### 4.a - TP LEÇON 1 SÉANCE 2  
+Le but de ce TP est de prouver les propriétés magnétiques de l'aimant.  
+Une fois ce TP bien réalisé, vous serez en mesure de soulever la feuille grâce à l'aimant.
+
+### Matériel nécessaire :  
+- aimant
+- feuille en papier
+- clou en fer
+
+Mettez le clou sur la table. Puis recouvrez le avec le papier.  
+A l'aide de l'aimant, essayez d'attirer le clou qui se trouve sous la feuille.
+Cela doit se faire selon la disposition suivante :
++-----------+
+| Aimant    |
+|    _____  |
+|   /     \ |
+|  |       ||
+|   \_____/ |
+|           |
++-----------+
+     |
+     V
++-----------------------+
+| Feuille de papier     |
++-----------------------+
+     |
+     V
++-----------+
+|    Clou   |
+|    | |    |
+|    | |    |
+|    | |    |
++-----------+
