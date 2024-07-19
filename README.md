@@ -165,8 +165,11 @@ A la fin de ce TP, vous serez en mesure de déterminer le rapport existant entre
 
 **Matériel nécessaire :**  
 - bobine (2 de longueur différentes)
-- cadre métallique
-- source de courant alternatif (non présent dans le kit)
+- cadre métallique (forme rectangulaire)
+- source de tension alternative (non présent dans le kit)
 - voltmètre (non présent dans le kit)
 
+Enroulez la bobine la plus longue autour d'un des côtés du cadre métallique. Appelons cela l'enroulement 1.
+Enroulez ensuite la bobine la moins longue autour du côté opposé au précédent. Appelons cela l'enroulement 2.
+Aux bornes de l'enroulement 1, branchons la source de tension alternative et aux bornes de l'enroulement 2, branchons le voltmètre.
 
