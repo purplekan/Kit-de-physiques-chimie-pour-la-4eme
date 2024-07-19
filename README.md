@@ -148,4 +148,14 @@ Enfin mettez l'aimant droit en rotation (en tordant le fil qui le relie au suppo
 
 Vous pouvez à présent constater sur votre oscilloscope la variation du sens de la tension.
 
+ ### 4.d - TP LEÇON 3 SÉANCE 1  
+ Le but de ce TP est de montrer la différence entre les bornes d'une prise électrique.
+A la fin de ce TP, vous serez en mesure d'identifier le rôle de chaque borne et ainsi éviter de provoquer des courts-circuits.  
+
+**Matériel nécessaire :**  
+- tournevis testeur
+- prise électrique
+
+En touchant le bout du manche du tournevis avec votre pouce, insérez la pointe du tournevis testeur dans l'une des deux bornes femelles de la prise.
+Si la lumière du tournevis s'allume, alors il s'agit de la phase. Dans le cas contraire, la borne femelle est le neutre.
 
