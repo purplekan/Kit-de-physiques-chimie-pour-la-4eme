@@ -159,3 +159,14 @@ A la fin de ce TP, vous serez en mesure d'identifier le rôle de chaque borne et
 En touchant le bout du manche du tournevis avec votre pouce, insérez la pointe du tournevis testeur dans l'une des deux bornes femelles de la prise.
 Si la lumière du tournevis s'allume, alors il s'agit de la phase. Dans le cas contraire, la borne femelle est le neutre.
 
+### 4.d - TP LEÇON 4 SÉANCE 2
+Le but de ce TP est de comprendre le processus de fonctionnement d'un transformateur.
+A la fin de ce TP, vous serez en mesure de déterminer le rapport existant entre la tension d'entrée et la tension de sortie. Vous pourrez donc faire usage des applications du transformateur. Vous serez capable de fabriquer vos propres chargeurs d'appareil ou vos multiprises.  
+
+**Matériel nécessaire :**  
+- bobine (2 de longueur différentes)
+- cadre métallique
+- source de courant alternatif (non présent dans le kit)
+- voltmètre (non présent dans le kit)
+
+
