@@ -99,7 +99,7 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 Le but de ce TP est de prouver les propriétés magnétiques de l'aimant.  
 Une fois ce TP bien réalisé, vous serez en mesure de soulever la feuille grâce à l'aimant.
 
-### Matériel nécessaire :  
+**Matériel nécessaire :**  
 - aimant
 - feuille en papier
 - clou en fer
@@ -107,26 +107,43 @@ Une fois ce TP bien réalisé, vous serez en mesure de soulever la feuille grâc
 Mettez le clou sur la table. Puis recouvrez le avec le papier.  
 A l'aide de l'aimant, essayez d'attirer le clou qui se trouve sous la feuille.
 Cela doit se faire selon la disposition suivante :
-+-----------+
-| Aimant    |
-|    _____  |
-|   /     \ |
-|  |       ||
-|   \_____/ |
-|           |
-+-----------+
-     |
-     V
-+-----------------------+
-| Feuille de papier     |
-| (non magnétique)      |
-+-----------------------+
-     |
-     V
-+-----------+
-|    Clou   |
-|    | |    |
-|    | |    |
-|    | |    |
-+-----------+
+Aimant  
+  |  
+Papier  
+  |  
+Clou  
+
+Le magnétisme fonctionne donc même à travers la matière.  
+
+### 4.b - TP LEÇON 1 SÉANCE 4  
+Le but de ce TP est d'introduire le concept d'électroaimant.
+A la fin de ce TP, vous serez en mesure de fabriquer un aimant à l'aide d'une bobine. L'intensité de la force magnétique de cet aimant dépendra de la tension appliquée aux bornes de la bobine.  
+
+**Matériel nécessaire :**  
+- pile de 1,5 volts
+- fils de connexion
+- bobine
+- tige de fer doux
+
+Mettez la tige de fer à l'intérieur de la bobine.  
+Connectez ensuite la pile avec la bobine en vous servant des fils de connexion.
+Plus vous augmenterez le nombre de piles du générateur, plus le champ magnétique émis par la bobine sera puissant.  
+
+### 4.c - TP LEÇON 2 SÉANCE 4  
+Le but de ce TP est de prouver l'existence de la tension alternative.  
+A la fin de ce TP, vous serez en mesure de créér votre propre source de tension alternative.  
+
+**Matériel nécessaire :**  
+- support vertical
+- aimant droit
+- fil (non électrique)
+- tige de fer doux
+- bobine
+- oscilloscope
+
+ A l'aide du fil, attachez l'aimant droit au support vertical.  
+ Introduisez la tige de fer à l'intérieur de la bobine puis reliez les bornes de la bobine à l'oscilloscope.
+Placez la bobine et l'oscilloscope près du support vertical.
+Enfin mettez l'aimant droit en rotation (en tordant le fil qui le relie au support vertical)
+
 
