@@ -119,6 +119,7 @@ Cela doit se faire selon la disposition suivante :
      V
 +-----------------------+
 | Feuille de papier     |
+| (non magnétique)      |
 +-----------------------+
      |
      V
@@ -128,3 +129,4 @@ Cela doit se faire selon la disposition suivante :
 |    | |    |
 |    | |    |
 +-----------+
+
