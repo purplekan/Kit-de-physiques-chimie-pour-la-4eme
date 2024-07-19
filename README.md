@@ -13,7 +13,7 @@ Cependant, avec un kit, l'élève possède à sa portée tous les éléments né
 1 - PRESENTATION DU PROJET  
 2 - OBJECTIFS DU PROJET  
 3 - LISTE DU MATERIEL  
-4 - BREVE DESCRIPTION DE CHAQUE ELEMENT DU MATERIEL  
+4 - TRAVAUX PRATIQUES
 
 
 ### 1 - PRESENTATION DU PROJET  
@@ -92,3 +92,5 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 |                                | Eau distillée                     |
 | **Électrochimie**              | Anode en cuivre                   |
 |                                | Sulfate en graphite               |  
+
+### 4 - TP  
