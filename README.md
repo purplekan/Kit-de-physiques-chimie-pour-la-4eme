@@ -198,6 +198,7 @@ Comment vérifier que la source de tension est alternative ?
 Quels types d'appareils ont besoin de tension alternative ?  
 
 4.d - TP LEÇON 3 SÉANCE 1  
+===========================
 
 **Objectif du TP** :  
 -----------------------  
@@ -236,7 +237,6 @@ A quoi sert chaque borne de la  prise électrique ?
 ---------------------------------  
 
 Comprendre le processus de fonctionnement d'un transformateur.
-A la fin de ce TP, vous serez en mesure de déterminer le rapport existant entre la tension d'entrée et la tension de sortie et de faire usage des applications du transformateur.
 
 **Précautions à prendre** :  
 ------------------------------
@@ -275,14 +275,16 @@ Comment utiliser ce que vous venez d'apprendre pour des applications pratiques t
 ----------------------------
 Montrer l'existence de la poussée d'Archimède  
 
-**Précations à prendre** :   
-
+**Précations à prendre** :  
+--------------------------------
 
 **Schéma**  
 -----------------------------------  
 
   
-**Matériel nécessaire :**  
+**Matériel nécessaire** :  
+-----------------------------  
+
 - cube plein (modélisé et imprimé)
 - cube creux (modélisé et imprimé)
 - cuvette (non présent dans le kit)
@@ -292,6 +294,8 @@ Montrer l'existence de la poussée d'Archimède
 - dynamomètre (non présent dans le kit)
 
 **Procédures** :  
+------------------------------  
+
 - Accrochez le cube plein au dynamomètre. Notez son poids
 - Plongez le dans de l'eau (dans la cuvette). Notez son poids
 - Plongez le dans de l'eau salée (dans la cuvette en ajoutant du sel). Notez son poids
@@ -301,7 +305,9 @@ Montrer l'existence de la poussée d'Archimède
 - Deposez sur la surface de l'eau le cube plein et le cube creux
 - Notez ce que vous observez
 
+  
 **Conclusion** :  
+---------------------------
 Quel est l'effet des liquides sur les corps immergés ?  
 Qu'est ce qui explique la différence de poids selon les liquides ?
 
