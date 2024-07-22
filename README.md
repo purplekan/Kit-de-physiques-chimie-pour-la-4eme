@@ -120,7 +120,7 @@ Clou
     
 **Procédures** :  
 ---------------------
-1.Mettez le clou sur un support stable (table, chaise ...) 
+1.Mettez le clou sur un support stable (table, chaise ...)   
 2.Recouvrez le clou avec le papier  
 3.A l'aide de l'aimant, attirer le clou qui se trouve sous la feuille de papier
 
@@ -151,7 +151,7 @@ Décrire le fonctionnement d'un électroaimant.
 **Procédures** :  
 --------------------------------
 1.Mettez la tige de fer à l'intérieur de la bobine.  
-2.Connectez la pile avec la bobine en vous servant des fils de connexion.
+2.Connectez la pile avec la bobine en vous servant des fils de connexion.  
 3. Ajoutez une puis deux piles  
 4. Noter ce que vous constatez comme changement au niveau de l'intensité magnétique  
 
