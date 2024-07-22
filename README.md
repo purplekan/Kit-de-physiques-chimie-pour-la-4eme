@@ -223,21 +223,45 @@ Assurez-vous de bien comprendre chaque étape avant de procéder.
 -----------------------  
 A quoi sert chaque borne de la  prise électrique ?
 
-### 4.d - TP LEÇON 4 SÉANCE 2
-Le but de ce TP est de comprendre le processus de fonctionnement d'un transformateur.
-A la fin de ce TP, vous serez en mesure de déterminer le rapport existant entre la tension d'entrée et la tension de sortie. Vous pourrez donc faire usage des applications du transformateur. Vous serez capable de fabriquer vos propres chargeurs d'appareil ou vos multiprises.  
+4.d - TP LEÇON 4 SÉANCE 2  
+============================  
 
-**Matériel nécessaire :**  
-- bobine (2 de longueur différentes)
+**Objectif du TP** :  
+---------------------------------  
+
+Comprendre le processus de fonctionnement d'un transformateur.
+A la fin de ce TP, vous serez en mesure de déterminer le rapport existant entre la tension d'entrée et la tension de sortie et de faire usage des applications du transformateur.
+
+**Précautions à prendre** :  
+------------------------------
+Manipulez les composants électriques avec soin et assurez-vous que la source de tension alternative est sécurisée avant de commencer.
+
+**Matériel nécessaire** :  
+---------------------------------  
+
+- bobine (2 de longueurs différentes)
 - cadre métallique (forme rectangulaire)
-- source de tension alternative (non présent dans le kit)
+- source de tension alternative (non présente dans le kit)
 - voltmètre (non présent dans le kit)
 
-Enroulez la bobine la plus longue autour d'un des côtés du cadre métallique. Appelons cela l'enroulement 1.
-Enroulez ensuite la bobine la moins longue autour du côté opposé au précédent. Appelons cela l'enroulement 2.
-Aux bornes de l'enroulement 1, branchons la source de tension alternative et aux bornes de l'enroulement 2, branchons le voltmètre.  
+**Schéma**  
+-------------  
 
-On peut remarquer qu'il existe une relation de proportionnalité entre la tension en entrée (source alternative) et la tension en sortie ( tension mesurée par le voltmètre à l'enroulement 2).  
+  
+**Procédures** :  
+----------------------------  
+
+1.Enroulez la bobine la plus longue autour d'un des côtés du cadre métallique. Appelez le enroulement 1.  
+2.Enroulez ensuite la bobine la moins longue autour du côté opposé au précédent. Appelons cela l'enroulement 2.  
+3.Aux bornes de l'enroulement 1, branchez la source de tension alternative.  
+4.Aux bornes de l'enroulement 2, branchez le voltmètre.  
+5.Observez la relation de proportionnalité entre la tension en entrée (source alternative) et la tension en sortie (tension mesurée par le voltmètre à l'enroulement 2).
+  
+**Conclusion** :  
+-----------------------------  
+
+Comprendre la relation de proportionnalité entre la tension d'entrée et la tension de sortie dans un transformateur.  
+Comment utiliser ce que vous venez d'apprendre pour des applications pratiques telles que la fabrication de chargeurs d'appareil ou de multiprises?
 
 ### 4.e - TP LEÇON 6 SÉANCE 3  
 Le but de ce TP est de prouver l'existence de la poussée d'Archimède et de ses effets sur les corps immergés.
