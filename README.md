@@ -131,10 +131,11 @@ Quelles autres applications peut on en tirer ?
 
 ### 4.b - TP LEÇON 1 SÉANCE 4  
 -----------------------------------  
+
 **Objectif du TP** :  
--------------------------
-Décrire le fonctionnement d'un électroaimant.
-A la fin de ce TP, vous serez en mesure de fabriquer un aimant à l'aide d'une bobine. L'intensité de la force magnétique de cet aimant dépendra de la tension appliquée aux bornes de la bobine.  
+-------------------------  
+Décrire le fonctionnement d'un électroaimant.  
+
 **Précautions à prendre** :  
 ------------------------------  
 **Matériel nécessaire :**  
