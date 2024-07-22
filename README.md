@@ -130,18 +130,33 @@ Le magnétisme fonctionne t-il à travers la matière ?
 Quelles autres applications peut on en tirer ?
 
 ### 4.b - TP LEÇON 1 SÉANCE 4  
-Le but de ce TP est d'introduire le concept d'électroaimant.
+-----------------------------------  
+**Objectif du TP** :  
+-------------------------
+Décrire le fonctionnement d'un électroaimant.
 A la fin de ce TP, vous serez en mesure de fabriquer un aimant à l'aide d'une bobine. L'intensité de la force magnétique de cet aimant dépendra de la tension appliquée aux bornes de la bobine.  
-
+**Précautions à prendre** :  
+------------------------------  
 **Matériel nécessaire :**  
+------------------------------------
 - pile de 1,5 volts
 - fils de connexion
 - bobine
 - tige de fer doux
 
-Mettez la tige de fer à l'intérieur de la bobine.  
-Connectez ensuite la pile avec la bobine en vous servant des fils de connexion.
-Plus vous augmenterez le nombre de piles du générateur, plus le champ magnétique émis par la bobine sera puissant.  
+**Schéma**  
+-----------------------------------  
+**Procédures** :  
+--------------------------------
+1.Mettez la tige de fer à l'intérieur de la bobine.  
+2.Connectez la pile avec la bobine en vous servant des fils de connexion.
+3. Ajoutez une puis deux piles  
+4. Noter ce que vous constatez comme changement au niveau de l'intensité magnétique  
+
+**Conclusion** :  
+--------------------  
+Comment fonctionne un électroaimant ?  
+A quoi peut-il nous servrir ?
 
 ### 4.c - TP LEÇON 2 SÉANCE 4  
 Le but de ce TP est de prouver l'existence de la tension alternative.  
