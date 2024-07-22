@@ -52,7 +52,7 @@ Le document est divisé en matières. Chaque matière a plusieurs leçons et cha
 
 Dans le tableau suivant se trouve la liste des éléments contenus dans le kit éducatif réalisé :  
 
-### Matériaux
+### Matériel
 
 | **Catégorie**                  | **Élément**                       |
 |--------------------------------|-----------------------------------|
@@ -188,7 +188,7 @@ Montrer qu'il existe des sources de tensions non continues dites alternatives
 1.A l'aide du fil, attachez l'aimant droit au support vertical.  
 2.Introduisez la tige de fer à l'intérieur de la bobine  
 3.Reliez les bornes de la bobine à l'oscilloscope.  
-4.Placez la bobine et l'oscilloscope près du support vertical.
+4.Placez la bobine et l'oscilloscope près du support vertical.  
 5.Mettez l'aimant droit en rotation en tordant le fil qui le relie au support vertical.  
 6.Observez la variation de la tension sur l'oscilloscope  
   
