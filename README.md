@@ -96,24 +96,32 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 ### 4 - TP  
 
 ### 4.a - TP LEÇON 1 SÉANCE 2  
-Le but de ce TP est de prouver les propriétés magnétiques de l'aimant.  
-Une fois ce TP bien réalisé, vous serez en mesure de soulever la feuille grâce à l'aimant.
+**Objectif du TP** :  
+Prouver les propriétés magnétiques de l'aimant  
+
+**Précautions à prendre** :
+Se laver les mains avant et après avoir manipulé l'aimant et le clou  
 
 **Matériel nécessaire :**  
 - aimant
 - feuille en papier
 - clou en fer
 
-Mettez le clou sur la table. Puis recouvrez le avec le papier.  
-A l'aide de l'aimant, essayez d'attirer le clou qui se trouve sous la feuille.
-Cela doit se faire selon la disposition suivante :  
+**Schéma**    
 Aimant  
   |  
 Papier  
   |  
 Clou  
+    
+**Procédures** :  
+1.Mettez le clou sur un support stable (table, chaise ...) 
+2.Recouvrez le clou avec le papier  
+3.A l'aide de l'aimant, attirer le clou qui se trouve sous la feuille de papier
 
-Le magnétisme fonctionne donc même à travers la matière.  
+**Conclusion** :  
+Le magnétisme fonctionne t-il à travers la matière ?  
+Quelles autres applications peut on en tirer ?
 
 ### 4.b - TP LEÇON 1 SÉANCE 4  
 Le but de ce TP est d'introduire le concept d'électroaimant.
