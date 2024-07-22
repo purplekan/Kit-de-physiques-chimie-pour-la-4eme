@@ -147,6 +147,7 @@ Décrire le fonctionnement d'un électroaimant.
 
 **Schéma**  
 -----------------------------------  
+
 **Procédures** :  
 --------------------------------
 1.Mettez la tige de fer à l'intérieur de la bobine.  
@@ -176,6 +177,11 @@ Montrer qu'il existe des sources de tensions non continues dites alternatives
 - bobine
 - oscilloscope
 
+**Schéma**  
+-----------------------------------  
+
+
+
 **Procédures** :  
 -------------------  
   
@@ -202,15 +208,15 @@ Identifiez le rôle de chaque borne d'une prise électrique afin d'éviter les c
 Soyez prudent lors de la manipulation des prises électriques et des outils.  
 Assurez-vous de bien comprendre chaque étape avant de procéder.  
 
-**Schéma**  
--------------  
-
-
 **Matériel nécessaire** :  
 ---------------------------  
 
 - tournevis testeur
 - prise électrique
+
+**Schéma**  
+-------------  
+
 
 **Procédures** :  
 ---------------------  
@@ -271,6 +277,11 @@ Montrer l'existence de la poussée d'Archimède
 
 **Précations à prendre** :   
 
+
+**Schéma**  
+-----------------------------------  
+
+  
 **Matériel nécessaire :**  
 - cube plein (modélisé et imprimé)
 - cube creux (modélisé et imprimé)
