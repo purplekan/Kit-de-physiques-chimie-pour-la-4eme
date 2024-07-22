@@ -94,21 +94,24 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 |                                | Sulfate en graphite               |  
 
 ### 4 - TP  
-
+-------------------------
 ### 4.a - TP LEÇON 1 SÉANCE 2  
 **Objectif du TP** :  
 ---------------------
 Prouver les propriétés magnétiques de l'aimant  
 
-**Précautions à prendre** :
+**Précautions à prendre** :  
+---------------------
 Se laver les mains avant et après avoir manipulé l'aimant et le clou  
 
 **Matériel nécessaire :**  
+----------------------------------
 - aimant
 - feuille en papier
 - clou en fer
 
-**Schéma**    
+**Schéma**  
+--------------------
 Aimant  
   |  
 Papier  
@@ -116,11 +119,13 @@ Papier
 Clou  
     
 **Procédures** :  
+---------------------
 1.Mettez le clou sur un support stable (table, chaise ...) 
 2.Recouvrez le clou avec le papier  
 3.A l'aide de l'aimant, attirer le clou qui se trouve sous la feuille de papier
 
 **Conclusion** :  
+--------------------------
 Le magnétisme fonctionne t-il à travers la matière ?  
 Quelles autres applications peut on en tirer ?
 
