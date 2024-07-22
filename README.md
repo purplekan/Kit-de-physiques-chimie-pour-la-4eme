@@ -94,8 +94,10 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 |                                | Sulfate en graphite               |  
 
 ### 4 - TP  
--------------------------
+-------------------------  
+
 ### 4.a - TP LEÇON 1 SÉANCE 2  
+
 **Objectif du TP** :  
 ---------------------
 Prouver les propriétés magnétiques de l'aimant  
@@ -197,8 +199,8 @@ Montrer qu'il existe des sources de tensions non continues dites alternatives
 Comment vérifier que la source de tension est alternative ?  
 Quels types d'appareils ont besoin de tension alternative ?  
 
-4.d - TP LEÇON 3 SÉANCE 1  
-===========================
+### 4.d - TP LEÇON 3 SÉANCE 1  
+--------------------------------
 
 **Objectif du TP** :  
 -----------------------  
@@ -230,8 +232,8 @@ Assurez-vous de bien comprendre chaque étape avant de procéder.
 -----------------------  
 A quoi sert chaque borne de la  prise électrique ?
 
-4.d - TP LEÇON 4 SÉANCE 2  
-============================  
+### 4.e - TP LEÇON 4 SÉANCE 2  
+-------------------------------------- 
 
 **Objectif du TP** :  
 ---------------------------------  
@@ -269,7 +271,7 @@ Manipulez les composants électriques avec soin et assurez-vous que la source de
 Comprendre la relation de proportionnalité entre la tension d'entrée et la tension de sortie dans un transformateur.  
 Comment utiliser ce que vous venez d'apprendre pour des applications pratiques telles que la fabrication de chargeurs d'appareil ou de multiprises?
 
-### 4.e - TP LEÇON 6 
+### 4.f - TP LEÇON 6 
 --------------------------------  
 **Objectifs du TP** :  
 ----------------------------
@@ -310,7 +312,7 @@ Montrer l'existence de la poussée d'Archimède
 Quel est l'effet des liquides sur les corps immergés ?  
 Qu'est ce qui explique la différence de poids selon les liquides ?  
 
-### 4.f - TP LEÇON 7 SÉANCE 4  
+### 4.g - TP LEÇON 7 SÉANCE 4  
 ------------------------------  
 
 **Objectif du TP** :  
@@ -346,7 +348,7 @@ Mettre en évidence quelques propriétés de l'optique en utilisant la chambre n
 ---------------------------
 Comment est l'image à travers la chambre noire par rapport à celle dans la réalité ?  
 
-### 4.g - TP LEÇON 9 SÉANCE 1 & 2  
+### 4.h - TP LEÇON 9 SÉANCE 1 & 2  
 ------------------------------  
 
 **Objectif du TP** :  
