@@ -191,16 +191,37 @@ Montrer qu'il existe des sources de tensions non continues dites alternatives
 Comment vérifier que la source de tension est alternative ?  
 Quels types d'appareils ont besoin de tension alternative ?  
 
- ### 4.d - TP LEÇON 3 SÉANCE 1  
- Le but de ce TP est de montrer la différence entre les bornes d'une prise électrique.
-A la fin de ce TP, vous serez en mesure d'identifier le rôle de chaque borne et ainsi éviter de provoquer des courts-circuits.  
+4.d - TP LEÇON 3 SÉANCE 1  
 
-**Matériel nécessaire :**  
+**Objectif du TP** :  
+-----------------------  
+Identifiez le rôle de chaque borne d'une prise électrique afin d'éviter les courts-circuits et de comprendre leur fonctionnement.  
+  
+**Précautions à prendre** :  
+----------------------------  
+Soyez prudent lors de la manipulation des prises électriques et des outils.  
+Assurez-vous de bien comprendre chaque étape avant de procéder.  
+
+**Schéma**  
+-------------  
+
+
+**Matériel nécessaire** :  
+---------------------------  
+
 - tournevis testeur
 - prise électrique
 
-En touchant le bout du manche du tournevis avec votre pouce, insérez la pointe du tournevis testeur dans l'une des deux bornes femelles de la prise.
-Si la lumière du tournevis s'allume, alors il s'agit de la phase. Dans le cas contraire, la borne femelle est le neutre.
+**Procédures** :  
+---------------------  
+
+1.En touchant le bout du manche du tournevis avec votre pouce, insérez la pointe du tournevis testeur dans l'une des deux bornes femelles de la prise.  
+2.Si la lumière du tournevis s'allume, alors il s'agit de la phase.  
+3.Si la lumière du tournevis ne s'allume pas, alors la borne femelle est le neutre.  
+  
+**Conclusion** :  
+-----------------------  
+A quoi sert chaque borne de la  prise électrique ?
 
 ### 4.d - TP LEÇON 4 SÉANCE 2
 Le but de ce TP est de comprendre le processus de fonctionnement d'un transformateur.
