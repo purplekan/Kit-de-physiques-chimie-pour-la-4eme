@@ -372,16 +372,17 @@ Savoir ce qu'on observe derrière un objet opaque éclairé par une source de lu
 **Procédures** :  
 ------------------------------  
 
-1.A l'aide du scotch, fixez le papier calque sur l'une des faces de la petite boîte  
-2.Introduire la petite boîte à l'intérieure de la grande  
-3.A l'aide du crayon à papier, faire un trou (le sténopé) sur la face non ouverte de la grande boîte  
+1.Placer la sphère opaque à égale distance de la source lumineuse 🔦 et de l'écran 🖥  
+2.Eclairer la sphère
+3.Identifiez les différentes zones d'ombres sur 
 4.Observez une image à l'oeil nu puis à travers la chambre noire  
 5.Notez les différences observées  
 
   
 **Conclusion** :  
 ---------------------------
-Comment est l'image à travers la chambre noire par rapport à celle dans la réalité ?
+Comment appelle t-on chacune des zones d'ombres ?  
+Quelles sont leur(s) caractéristique(s) ?
   
 
 
