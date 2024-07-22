@@ -295,15 +295,14 @@ Montrer l'existence de la poussée d'Archimède
 
 **Procédures** :  
 ------------------------------  
-
-- Accrochez le cube plein au dynamomètre. Notez son poids
-- Plongez le dans de l'eau (dans la cuvette). Notez son poids
-- Plongez le dans de l'eau salée (dans la cuvette en ajoutant du sel). Notez son poids
-- Plongez le dans de l'alcool (dans la cuvette). Notez son poids
-- Comparez les trois poids notés.
-- Videz la cuvette et remplissez-la d'eau
-- Deposez sur la surface de l'eau le cube plein et le cube creux
-- Notez ce que vous observez
+  
+1.Accrochez le cube plein au dynamomètre. Notez son poids  
+2.Plongez le dans de l'eau (dans la cuvette). Notez son poids  
+3.Plongez le dans de l'eau salée (dans la cuvette en ajoutant du sel). Notez son poids  
+3.Plongez le dans de l'alcool (dans la cuvette). Notez son poids  
+4.Comparez les trois poids notés.  
+5.Videz la cuvette et remplissez-la d'eau  
+6.Deposez sur la surface de l'eau le cube plein et le cube creuxNotez ce que vous observez
 
   
 **Conclusion** :  
@@ -318,7 +317,7 @@ Qu'est ce qui explique la différence de poids selon les liquides ?
 ---------------------------------  
 Mettre en évidence quelques propriétés de l'optique en utilisant la chambre noire.  
 
-**Précations à prendre** :  
+**Précautions à prendre** :  
 --------------------------------
 
 **Matériel nécessaire** :  
@@ -354,7 +353,7 @@ Comment est l'image à travers la chambre noire par rapport à celle dans la ré
 ---------------------------------  
 Savoir ce qu'on observe derrière un objet opaque éclairé par une source de lumière.  
 
-**Précations à prendre** :  
+**Précautions à prendre** :  
 --------------------------------
 
 
@@ -362,7 +361,7 @@ Savoir ce qu'on observe derrière un objet opaque éclairé par une source de lu
 -----------------------------  
 
 - une sphère opaque (modélisée, imprimée)
-- source de lumière (lampe)
+- source de lumière (lampe 🔦)
 - carton faisant office d'écran 🖥
   
 **Schéma**  
@@ -372,11 +371,13 @@ Savoir ce qu'on observe derrière un objet opaque éclairé par une source de lu
 **Procédures** :  
 ------------------------------  
 
-1.Placer la sphère opaque à égale distance de la source lumineuse 🔦 et de l'écran 🖥  
-2.Eclairer la sphère
-3.Identifiez les différentes zones d'ombres sur 
-4.Observez une image à l'oeil nu puis à travers la chambre noire  
+1.Placez la sphère opaque à égale distance de la source lumineuse 🔦 et de l'écran 🖥  
+2.Eclairez la sphère
+3.Identifiez les différentes zones d'ombres sur la sphère et sur l'écran d'après leur couleur 
+4.Notez les différentez zones d'ombres repérées  
 5.Notez les différences observées  
+6.Rapprochez la source lumineuse 🔦 de la sphère. On obtient alors une source lumineuse étendue  
+7.Répétez les étapes 3 & 4
 
   
 **Conclusion** :  
