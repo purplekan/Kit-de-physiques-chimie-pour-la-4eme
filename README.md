@@ -263,7 +263,7 @@ Manipulez les composants électriques avec soin et assurez-vous que la source de
 Comprendre la relation de proportionnalité entre la tension d'entrée et la tension de sortie dans un transformateur.  
 Comment utiliser ce que vous venez d'apprendre pour des applications pratiques telles que la fabrication de chargeurs d'appareil ou de multiprises?
 
-### 4.e - TP LEÇON 6 SÉANCE 3  
+### 4.e - TP LEÇON 6 
 --------------------------------  
 **Objectifs du TP** :  
 ----------------------------
@@ -273,11 +273,21 @@ Montrer l'existence de la poussée d'Archimède
 
 **Matériel nécessaire :**  
 - cube plein (modélisé et imprimé)
+- cube creux (modélisé et imprimé)
 - cuvette (non présent dans le kit)
 - eau (non présente dans le kit)
+- alcool (non présent dans le kit)
+- sel (non préent dans le kit)
 - dynamomètre (non présent dans le kit)
 
 **Procédures** :  
+- Accrochez le cube plein au dynamomètre. Notez son poids
+- Plongez le dans de l'eau (dans la cuvette). Notez son poids
+- Plongez le dans de l'eau salée (dans la cuvette en ajoutant du sel). Notez son poids
+- Plongez le dans de l'alcool (dans la cuvette). Notez son poids
+- Comparez les trois poids notés.
+- Videz la cuvette et remplissez-la d'eau
+- Deposez sur la surface de l'eau le cube plein et le cube creux 
 
 
 
