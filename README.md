@@ -309,8 +309,44 @@ Montrer l'existence de la poussée d'Archimède
 **Conclusion** :  
 ---------------------------
 Quel est l'effet des liquides sur les corps immergés ?  
-Qu'est ce qui explique la différence de poids selon les liquides ?
+Qu'est ce qui explique la différence de poids selon les liquides ?  
 
+### 4.f - TP LEÇON 7 SÉANCE 4  
+------------------------------  
+
+**Objectif du TP** :  
+---------------------------------  
+Mettre en évidence quelques propriétés de l'optique en utilisant la chambre noire.  
+
+**Précations à prendre** :  
+--------------------------------
+
+**Schéma**  
+-----------------------------------  
+
+  
+**Matériel nécessaire** :  
+-----------------------------  
+
+- deux boîtes coulissantes 
+- papier calque
+- crayon à papier
+- scotch
+
+**Procédures** :  
+------------------------------  
+
+1.A l'aide du scotch, fixez le papier calque sur l'une des faces de la petite boîte  
+2.Introduire la petite boîte à l'intérieure de la grande  
+3.A l'aide du crayon à papier, faire un trou (le sténopé) sur la face non ouverte de la grande boîte  
+4.Observez une image à l'oeil nu puis à travers la chambre noire  
+5.Notez les différences observées  
+
+  
+**Conclusion** :  
+---------------------------
+Comment est l'image à travers la chambre noire par rapport à celle dans la réalité ?
+  
 
 
 
