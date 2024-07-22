@@ -160,10 +160,15 @@ Comment fonctionne un électroaimant ?
 A quoi peut-il nous servrir ?
 
 ### 4.c - TP LEÇON 2 SÉANCE 4  
-Le but de ce TP est de prouver l'existence de la tension alternative.  
-A la fin de ce TP, vous serez en mesure de créér votre propre source de tension alternative.  
+---------------------------------  
 
-**Matériel nécessaire :**  
+**Objectifs du TP** :  
+-------------------------------  
+Montrer qu'il existe des sources de tensions non continues dites alternatives  
+
+**Matériel nécessaire** :  
+---------------------------  
+
 - support vertical
 - aimant droit
 - fil (non électrique)
@@ -171,12 +176,19 @@ A la fin de ce TP, vous serez en mesure de créér votre propre source de tensio
 - bobine
 - oscilloscope
 
- A l'aide du fil, attachez l'aimant droit au support vertical.  
- Introduisez la tige de fer à l'intérieur de la bobine puis reliez les bornes de la bobine à l'oscilloscope.
-Placez la bobine et l'oscilloscope près du support vertical.
-Enfin mettez l'aimant droit en rotation (en tordant le fil qui le relie au support vertical).
-
-Vous pouvez à présent constater sur votre oscilloscope la variation du sens de la tension.
+**Procédures** :  
+-------------------  
+  
+1.A l'aide du fil, attachez l'aimant droit au support vertical.  
+2.Introduisez la tige de fer à l'intérieur de la bobine  
+3.Reliez les bornes de la bobine à l'oscilloscope.  
+4.Placez la bobine et l'oscilloscope près du support vertical.
+5.Mettez l'aimant droit en rotation en tordant le fil qui le relie au support vertical.  
+6.Observez la variation de la tension sur l'oscilloscope  
+  
+**Conclusion** :  
+----------------------  
+Quels types d'appareils ont besoin de tension alternative ?  
 
  ### 4.d - TP LEÇON 3 SÉANCE 1  
  Le but de ce TP est de montrer la différence entre les bornes d'une prise électrique.
