@@ -287,7 +287,13 @@ Montrer l'existence de la poussée d'Archimède
 - Plongez le dans de l'alcool (dans la cuvette). Notez son poids
 - Comparez les trois poids notés.
 - Videz la cuvette et remplissez-la d'eau
-- Deposez sur la surface de l'eau le cube plein et le cube creux 
+- Deposez sur la surface de l'eau le cube plein et le cube creux
+- Notez ce que vous observez
+
+**Conclusion** :  
+Quel est l'effet des liquides sur les corps immergés ?  
+Qu'est ce qui explique la différence de poids selon les liquides ?
+
 
 
 
