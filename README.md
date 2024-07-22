@@ -264,13 +264,20 @@ Comprendre la relation de proportionnalité entre la tension d'entrée et la ten
 Comment utiliser ce que vous venez d'apprendre pour des applications pratiques telles que la fabrication de chargeurs d'appareil ou de multiprises?
 
 ### 4.e - TP LEÇON 6 SÉANCE 3  
-Le but de ce TP est de prouver l'existence de la poussée d'Archimède et de ses effets sur les corps immergés.
-A la fin de ce TP, vous serez en mesure de comprendre l'influence des liquides sur les coprs qui y sont immergés.  
+--------------------------------  
+**Objectifs du TP** :  
+----------------------------
+Montrer l'existence de la poussée d'Archimède  
+
+**Précations à prendre** :   
 
 **Matériel nécessaire :**  
 - cube plein (modélisé et imprimé)
 - cuvette (non présent dans le kit)
 - eau (non présente dans le kit)
 - dynamomètre (non présent dans le kit)
+
+**Procédures** :  
+
 
 
