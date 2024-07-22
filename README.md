@@ -97,6 +97,7 @@ Dans le tableau suivant se trouve la liste des éléments contenus dans le kit �
 
 ### 4.a - TP LEÇON 1 SÉANCE 2  
 **Objectif du TP** :  
+=====================
 Prouver les propriétés magnétiques de l'aimant  
 
 **Précautions à prendre** :
