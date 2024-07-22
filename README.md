@@ -188,7 +188,7 @@ Montrer qu'il existe des sources de tensions non continues dites alternatives
   
 **Conclusion** :  
 ----------------------  
-Comment vérifier que la source de tension est alternative ?
+Comment vérifier que la source de tension est alternative ?  
 Quels types d'appareils ont besoin de tension alternative ?  
 
  ### 4.d - TP LEÇON 3 SÉANCE 1  
