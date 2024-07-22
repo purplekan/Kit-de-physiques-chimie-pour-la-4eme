@@ -321,10 +321,6 @@ Mettre en évidence quelques propriétés de l'optique en utilisant la chambre n
 **Précations à prendre** :  
 --------------------------------
 
-**Schéma**  
------------------------------------  
-
-  
 **Matériel nécessaire** :  
 -----------------------------  
 
@@ -333,6 +329,46 @@ Mettre en évidence quelques propriétés de l'optique en utilisant la chambre n
 - crayon à papier
 - scotch
 
+**Schéma**  
+-----------------------------------  
+
+  
+**Procédures** :  
+------------------------------  
+
+1.A l'aide du scotch, fixez le papier calque sur l'une des faces de la petite boîte  
+2.Introduire la petite boîte à l'intérieure de la grande  
+3.A l'aide du crayon à papier, faire un trou (le sténopé) sur la face non ouverte de la grande boîte  
+4.Observez une image à l'oeil nu puis à travers la chambre noire  
+5.Notez les différences observées  
+
+  
+**Conclusion** :  
+---------------------------
+Comment est l'image à travers la chambre noire par rapport à celle dans la réalité ?  
+
+### 4.g - TP LEÇON 9 SÉANCE 1 & 2  
+------------------------------  
+
+**Objectif du TP** :  
+---------------------------------  
+Savoir ce qu'on observe derrière un objet opaque éclairé par une source de lumière.  
+
+**Précations à prendre** :  
+--------------------------------
+
+
+**Matériel nécessaire** :  
+-----------------------------  
+
+- une sphère opaque (modélisée, imprimée)
+- source de lumière (lampe)
+- carton faisant office d'écran 🖥
+  
+**Schéma**  
+-----------------------------------  
+
+  
 **Procédures** :  
 ------------------------------  
 
