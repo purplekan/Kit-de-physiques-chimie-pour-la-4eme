@@ -619,5 +619,47 @@ Savoir comment se fait l'électrolyse du sulfate de cuivre.
 **Conclusion** :  
 ---------------------------
 Quelle est l'issue de l'électrolyse du sulfate de cuivre ?  
+Quelles applications utiles peuvent en découler ?  
+
+### 4.n - TP LEÇON 16 SÉANCE 1    
+------------------------------  
+
+**Objectif du TP** :  
+---------------------------------  
+Savoir comment l'électricité ⚡ est conduite dans les électrolytes.      
+    
+**Précautions à prendre** :  
+--------------------------------
+
+
+**Matériel nécessaire** :  
+-----------------------------  
+
+- cuve à électrolyse (électrolyseur)
+- eau distillée
+- source de tension continue
+- interrupteur
+- lampe 💡 
+- fils de connexion
+- sel de cuisine (NaCl)
+  
+**Schéma**  
+-----------------------------------  
+  
+**Procédures** :  
+------------------------------  
+
+1.Mettre l'eau distilée dans l'électrolyseur         
+3.Connectez en série : l'interrupteur, la source de tension, la lampe et mettre chaque fil de connexion libre dans l'électrolyseur     
+4.Fermez l'interrupteur  
+5.Notez ce que vous voyez  
+6.Ouvrez l'interrupteur et ajoutez du sel de cuisine dans l'eau distillée  
+7.Fermez l'interrupteur  
+8.Notez ce que vous voyez  
+
+    
+**Conclusion** :  
+---------------------------
+Quelle est l'issue de l'électrolyse du sulfate de cuivre ?  
 Quelles applications utiles peuvent en découler ?
 
