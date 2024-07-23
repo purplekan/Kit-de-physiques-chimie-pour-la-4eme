@@ -430,12 +430,12 @@ Quelles sont les caractéristiques de l'image de la bougie 🕯 ?
   
 
   
-### 4.i - TP LEÇON 10 SÉANCE 1  
+### 4.i - TP LEÇON 12 SÉANCE 2 & 5 & 6  
 ------------------------------  
 
 **Objectif du TP** :  
 ---------------------------------  
-Savoir comment se propage la lumière 🔦 et les règles auxquelles elle obéit.  
+Comprendre le fonctionnement de la conduction électrique dans un métal.   
 
 
   
@@ -446,9 +446,12 @@ Savoir comment se propage la lumière 🔦 et les règles auxquelles elle obéit
 **Matériel nécessaire** :  
 -----------------------------  
 
-- support horizontal du miroir
-- source de lumière (bougie 🕯) * 2
-- miroir
+- support vertical
+- fil (non électrique)
+- sphère
+- tige en cuivre
+- tige en verre
+- paille en plastique
   
 **Schéma**  
 -----------------------------------  
@@ -459,15 +462,15 @@ Savoir comment se propage la lumière 🔦 et les règles auxquelles elle obéit
 **Procédures** :  
 ------------------------------  
 
-1.Placez le miroir sur le support vertical    
-2.Placez ensuite les bougies 🕯 de part et d'autre du miroir à égale distance  
-3.Allumez la bougie 🕯 placée devant la face réfléchissante du miroir  
-4.Regardez les deux bougies. Notez ce que vous voyez   
-5.Regardez la bougie puis regardez à travers le miroir. Notez ce que vous voyez  
+1.Chargez négativement la paille en plastique (frottez la contre vos cheveux ou avec un tissu)   
+2.Attachez la sphère au support à l'aide du fil    
+3.Mettez en contact la tige en cuivre et la sphère  
+4.Approchez la paille en plastique chargée négativement de la tige en cuivre    
+5.Notez ce que vous voyez  
+6.Remplacez à présent la tige en cuivre par la tige en verre puis répétez les étapes 3, 4 et 5  
+7.Déposez la tige en verre et approchez la paille en plastique directement de la sphère  
+8.Notez ce que vous voyez  
   
 **Conclusion** :  
 ---------------------------
-Comment se propage la lumière ?  
-Pourquoi la bougie 🕯 semble **allumée** de l'autre côté du miroir alors qu'elle est en faite **éteinte** ?  
-Quelles sont les caractéristiques de l'image de la bougie 🕯 ?  
-
+Comment est-ce que la conduction électrique ⚡ se fait dans un métal ?  
