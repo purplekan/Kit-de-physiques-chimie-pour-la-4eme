@@ -531,7 +531,7 @@ Transformer l'ion cuivre en cuivre.
 ------------------------------  
 
 1.Versez une petite quantité de sulfate de cuivre dans le verre à pied    
-2.Introduire la paille de fer dans la solution      
+2.Introduisez la paille de fer dans la solution      
 3.Notez ce que vous voyez  
 4.A l'aide du compte goutte, ajoutez progressivement la soude dans le verre à pied jusqu'à ce qu'il y ait réaction  
 5.Notez ce que vous voyez
