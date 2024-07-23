@@ -392,7 +392,10 @@ Quelles sont leur(s) caractéristique(s) ?
 
 **Objectif du TP** :  
 ---------------------------------  
-Savoir comment se propage la lumière 🔦 et les règles auxquelles elle obéit.
+Savoir comment se propage la lumière 🔦 et les règles auxquelles elle obéit.  
+
+
+  
 **Précautions à prendre** :  
 --------------------------------
 
@@ -406,6 +409,8 @@ Savoir comment se propage la lumière 🔦 et les règles auxquelles elle obéit
   
 **Schéma**  
 -----------------------------------  
+
+  
 
   
 **Procédures** :  
