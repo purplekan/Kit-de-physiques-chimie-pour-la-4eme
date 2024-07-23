@@ -436,9 +436,7 @@ Quelles sont les caractéristiques de l'image de la bougie 🕯 ?
 **Objectif du TP** :  
 ---------------------------------  
 Comprendre le fonctionnement de la conduction électrique dans un métal.   
-
-
-  
+    
 **Précautions à prendre** :  
 --------------------------------
 
@@ -455,9 +453,6 @@ Comprendre le fonctionnement de la conduction électrique dans un métal.
   
 **Schéma**  
 -----------------------------------  
-
-  
-
   
 **Procédures** :  
 ------------------------------  
@@ -474,3 +469,75 @@ Comprendre le fonctionnement de la conduction électrique dans un métal.
 **Conclusion** :  
 ---------------------------
 Comment est-ce que la conduction électrique ⚡ se fait dans un métal ?  
+
+### 4.j - TP LEÇON 13 SÉANCE 4    
+------------------------------  
+
+**Objectif du TP** :  
+---------------------------------  
+Mettre en évidence la présence d'ions cuivre dans la solution.     
+    
+**Précautions à prendre** :  
+--------------------------------
+
+
+**Matériel nécessaire** :  
+-----------------------------  
+
+- tube à essai
+- compte goutte
+- soude (hydroxyde de sodium) liquide
+- sulfate de cuvre
+  
+**Schéma**  
+-----------------------------------  
+  
+**Procédures** :  
+------------------------------  
+
+1.Versez une petite quantité de sulfate de cuivre dans le tube à essai    
+2.A l'aide du compte goutte, ajouter progressivement 💧 la soude dans le tube à essai jusqu'à ce qu'il y ait réaction    
+3.Notez ce que vous voyez
+
+    
+**Conclusion** :  
+---------------------------
+Qu'est-ce qui prouve la présence de l'ion cuivre dans la solution ?    
+
+### 4.j - TP LEÇON 14 SÉANCE 2    
+------------------------------  
+
+**Objectif du TP** :  
+---------------------------------  
+Transformer l'ion cuivre en cuivre.     
+    
+**Précautions à prendre** :  
+--------------------------------
+
+
+**Matériel nécessaire** :  
+-----------------------------  
+
+- verre 🥃 à pied
+- sulfate de cuivre
+- paille en fer
+- compte goutte
+- soude (hydroxyde de sodium) liquide
+  
+**Schéma**  
+-----------------------------------  
+  
+**Procédures** :  
+------------------------------  
+
+1.Versez une petite quantité de sulfate de cuivre dans le verre à pied    
+2.Introduire la paille de fer dans la solution      
+3.Notez ce que vous voyez  
+4.A l'aide du compte goutte, ajoutez progressivement la soude dans le verre à pied jusqu'à ce qu'il y ait réaction  
+5.Notez ce que vous voyez
+
+    
+**Conclusion** :  
+---------------------------
+Qu'est-ce qui nous permet de savoir que l'ion cuivre s'est tranformé chimiquement en métal cuivre ?   
+A quoi reconnaît-on que la solution finale contient des ions ferreurs Fe²+ ?  
