@@ -385,7 +385,45 @@ Savoir ce qu'on observe derrière un objet opaque éclairé par une source de lu
 **Conclusion** :  
 ---------------------------
 Comment appelle t-on chacune des zones d'ombres ?  
-Quelles sont leur(s) caractéristique(s) ?
+Quelles sont leur(s) caractéristique(s) ?  
+
+### 4.i - TP LEÇON 10 SÉANCE 1  
+------------------------------  
+
+**Objectif du TP** :  
+---------------------------------  
+Savoir comment se propage la lumière 🔦 et les règles auxquelles elle obéit.
+**Précautions à prendre** :  
+--------------------------------
+
+
+**Matériel nécessaire** :  
+-----------------------------  
+
+- support horizontal du miroir
+- source de lumière (bougie 🕯) * 2
+- miroir
+  
+**Schéma**  
+-----------------------------------  
+
+  
+**Procédures** :  
+------------------------------  
+
+1.Placez le miroir sur le support vertical    
+2.Placez ensuite les bougies 🕯 de part et d'autre du miroir à égale distance  
+3.Allumez la 🕯 
+4.Notez les différentez zones d'ombres repérées  
+5.Notez les différences observées  
+6.Rapprochez la source lumineuse 🔦 de la sphère. On obtient alors une source lumineuse étendue  
+7.Répétez les étapes 3 & 4
+
+  
+**Conclusion** :  
+---------------------------
+Comment se propage la lumière ?  
+Quelles sont les caractéristiques d'une image ?
   
 
 
