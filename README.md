@@ -541,3 +541,41 @@ Transformer l'ion cuivre en cuivre.
 ---------------------------
 Qu'est-ce qui nous permet de savoir que l'ion cuivre s'est tranformé chimiquement en métal cuivre ?   
 A quoi reconnaît-on que la solution finale contient des ions ferreurs Fe²+ ?  
+
+### 4.j - TP LEÇON 14 SÉANCE 3    
+------------------------------  
+
+**Objectif du TP** :  
+---------------------------------  
+Transformer le cuivre en ion cuivre.     
+    
+**Précautions à prendre** :  
+--------------------------------
+
+
+**Matériel nécessaire** :  
+-----------------------------  
+
+- verre 🥃 à pied
+- morceau de cuivre
+- acide nitrique
+- compte goutte
+- soude (hydroxyde de sodium) liquide
+  
+**Schéma**  
+-----------------------------------  
+  
+**Procédures** :  
+------------------------------  
+
+1.Mettez le morceau de cuivre dans le verre à pied      
+2.Versez un peu d'acide nitrique sur le morceau de cuivre       
+3.Notez ce que vous voyez  
+4.A l'aide du compte goutte, ajoutez progressivement la soude dans le verre à pied jusqu'à ce qu'il y ait réaction  
+5.Notez ce que vous voyez
+
+    
+**Conclusion** :  
+---------------------------
+Qu'est-ce qui nous permet de savoir que le cuivre s'est tranformé chimiquement en ion cuivre ?  
+
