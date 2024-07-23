@@ -413,16 +413,14 @@ Savoir comment se propage la lumière 🔦 et les règles auxquelles elle obéit
 
 1.Placez le miroir sur le support vertical    
 2.Placez ensuite les bougies 🕯 de part et d'autre du miroir à égale distance  
-3.Allumez la 🕯 
-4.Notez les différentez zones d'ombres repérées  
-5.Notez les différences observées  
-6.Rapprochez la source lumineuse 🔦 de la sphère. On obtient alors une source lumineuse étendue  
-7.Répétez les étapes 3 & 4
-
+3.Allumez la bougie 🕯 placée devant la face réfléchissante du miroir  
+4.Regardez les deux bougies. Notez ce que vous voyez   
+5.Regardez la bougie puis regardez à travers le miroir. Notez ce que vous voyez  
   
 **Conclusion** :  
 ---------------------------
 Comment se propage la lumière ?  
+Pourquoi la bougie 🕯 semble **allumée** de l'autre côté du miroir alors qu'elle est en faite **éteinte** ?  
 Quelles sont les caractéristiques d'une image ?
   
 
