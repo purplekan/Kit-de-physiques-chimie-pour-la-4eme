@@ -426,8 +426,48 @@ Savoir comment se propage la lumière 🔦 et les règles auxquelles elle obéit
 ---------------------------
 Comment se propage la lumière ?  
 Pourquoi la bougie 🕯 semble **allumée** de l'autre côté du miroir alors qu'elle est en faite **éteinte** ?  
-Quelles sont les caractéristiques d'une image ?
+Quelles sont les caractéristiques de l'image de la bougie 🕯 ?  
   
 
+  
+### 4.i - TP LEÇON 10 SÉANCE 1  
+------------------------------  
 
+**Objectif du TP** :  
+---------------------------------  
+Savoir comment se propage la lumière 🔦 et les règles auxquelles elle obéit.  
+
+
+  
+**Précautions à prendre** :  
+--------------------------------
+
+
+**Matériel nécessaire** :  
+-----------------------------  
+
+- support horizontal du miroir
+- source de lumière (bougie 🕯) * 2
+- miroir
+  
+**Schéma**  
+-----------------------------------  
+
+  
+
+  
+**Procédures** :  
+------------------------------  
+
+1.Placez le miroir sur le support vertical    
+2.Placez ensuite les bougies 🕯 de part et d'autre du miroir à égale distance  
+3.Allumez la bougie 🕯 placée devant la face réfléchissante du miroir  
+4.Regardez les deux bougies. Notez ce que vous voyez   
+5.Regardez la bougie puis regardez à travers le miroir. Notez ce que vous voyez  
+  
+**Conclusion** :  
+---------------------------
+Comment se propage la lumière ?  
+Pourquoi la bougie 🕯 semble **allumée** de l'autre côté du miroir alors qu'elle est en faite **éteinte** ?  
+Quelles sont les caractéristiques de l'image de la bougie 🕯 ?  
 
