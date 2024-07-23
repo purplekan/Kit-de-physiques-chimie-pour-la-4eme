@@ -504,7 +504,7 @@ Mettre en évidence la présence d'ions cuivre dans la solution.
 ---------------------------
 Qu'est-ce qui prouve la présence de l'ion cuivre dans la solution ?    
 
-### 4.j - TP LEÇON 14 SÉANCE 2    
+### 4.k - TP LEÇON 14 SÉANCE 2    
 ------------------------------  
 
 **Objectif du TP** :  
@@ -542,7 +542,7 @@ Transformer l'ion cuivre en cuivre.
 Qu'est-ce qui nous permet de savoir que l'ion cuivre s'est tranformé chimiquement en métal cuivre ?   
 A quoi reconnaît-on que la solution finale contient des ions ferreurs Fe²+ ?  
 
-### 4.j - TP LEÇON 14 SÉANCE 3    
+### 4.l - TP LEÇON 14 SÉANCE 3    
 ------------------------------  
 
 **Objectif du TP** :  
@@ -578,4 +578,46 @@ Transformer le cuivre en ion cuivre.
 **Conclusion** :  
 ---------------------------
 Qu'est-ce qui nous permet de savoir que le cuivre s'est tranformé chimiquement en ion cuivre ?  
+
+### 4.m - TP LEÇON 15 SÉANCE 1    
+------------------------------  
+
+**Objectif du TP** :  
+---------------------------------  
+Savoir comment se fait l'électrolyse du sulfate de cuivre.     
+    
+**Précautions à prendre** :  
+--------------------------------
+
+
+**Matériel nécessaire** :  
+-----------------------------  
+
+- cuve à électrolyse (électrolyseur)
+- solution de sulfate de cuivre
+- tige en graphite servant de cathode
+- tige en cuivre servant d'anode
+- source de tension continue
+- interrupteur
+- lampe 💡 
+- ampèremètre
+- fils de connexion
+  
+**Schéma**  
+-----------------------------------  
+  
+**Procédures** :  
+------------------------------  
+
+1.Mettre la solution de sulfate de cuivre dans l'électrolyseur        
+2.Mettre la tige en graphite(cathode) et la tige en cuivre(anode) dans la solution    
+3.Connectez en série : l'interrupteur, la source de tension, la lampe et l'ampèremetre avec le reste du circuit(les deux tiges)  
+4.Fermez l'interrupteur  
+5.Notez ce que vous voyez  
+
+    
+**Conclusion** :  
+---------------------------
+Quelle est l'issue de l'électrolyse du sulfate de cuivre ?  
+Quelles applications utiles peuvent en découler ?
 
