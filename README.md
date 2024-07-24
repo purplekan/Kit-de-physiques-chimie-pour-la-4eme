@@ -674,7 +674,7 @@ Comprendre la nature du courant dans les électrolytes.
 --------------------------------
 
 
-**Matériel nécessaire** :  
+[**Matériel nécessaire**](https://www.youtube.com/watch?v=UEi5mlzqZCU) :  
 -----------------------------  
 
 - tube en U
