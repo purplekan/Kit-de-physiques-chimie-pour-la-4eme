@@ -710,5 +710,49 @@ Comprendre la nature du courant dans les électrolytes.
     
 **Conclusion** :  
 ---------------------------
-A quoi reconnaît-on que les ions ont migré ?    
+A quoi reconnaît-on que les ions ont migré ?  
+
+### 4.p - TP LEÇON 20 SÉANCE 1    
+------------------------------  
+
+**Objectif du TP** :  
+---------------------------------  
+Comprendre le fonctionnemen de la génératrice d'une bibliothèque.       
+    
+**Précautions à prendre** :  
+--------------------------------
+
+
+**Matériel nécessaire** :  
+-----------------------------  
+
+- génératrice
+- lampes
+- fils de connexion
+  
+**Schéma**  
+-----------------------------------  
+  
+**Procédures** :  
+------------------------------  
+
+1.Connectez en série la lampe et la génératrice  
+2.Tournez le galet de la génératrice   
+3.Après avoir rincé le tube à l'eau distillée, ajoutez l'acide sulfurique dans le tube    
+4.Ouvrez délicatement le robinet pour laisser le mélange entrer  
+5.Insérez une électrode en grapite dans chacune des ouvertures du tube   
+6.Connectez les électrodes au générateur  
+7.Mettez le générateur en marche  
+8.Attendez 5 minutes  
+9.Notez ce que vous voyez  
+10.Attendez 10 minutes  
+11.Notez ce que vous voyez  
+12.Attendez 20 minutes    
+13.Notez ce que vous voyez  
+
+    
+**Conclusion** :  
+---------------------------
+A quoi reconnaît-on que les ions ont migré ?  
+  
 
