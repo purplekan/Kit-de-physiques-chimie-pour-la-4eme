@@ -292,7 +292,7 @@ Montrer l'existence de la poussée d'Archimède
 - cuvette (non présent dans le kit)
 - eau (non présente dans le kit)
 - alcool (non présent dans le kit)
-- sel (non préent dans le kit)
+- sel (non présent dans le kit)
 - dynamomètre (non présent dans le kit)
 
 **Procédures** :  
