@@ -650,16 +650,65 @@ Savoir comment l'électricité ⚡ est conduite dans les électrolytes.
 ------------------------------  
 
 1.Mettre l'eau distilée dans l'électrolyseur         
-3.Connectez en série : l'interrupteur, la source de tension, la lampe et mettre chaque fil de connexion libre dans l'électrolyseur     
-4.Fermez l'interrupteur  
-5.Notez ce que vous voyez  
-6.Ouvrez l'interrupteur et ajoutez du sel de cuisine dans l'eau distillée  
-7.Fermez l'interrupteur  
-8.Notez ce que vous voyez  
+2.Connectez en série : l'interrupteur, la source de tension, la lampe et mettre chaque fil de connexion libre dans l'électrolyseur     
+3.Fermez l'interrupteur  
+4.Notez ce que vous voyez  
+5.Ouvrez l'interrupteur et ajoutez du sel de cuisine dans l'eau distillée  
+6.Fermez l'interrupteur  
+7.Notez ce que vous voyez  
 
     
 **Conclusion** :  
 ---------------------------
 Quelle est l'issue de l'électrolyse du sulfate de cuivre ?  
-Quelles applications utiles peuvent en découler ?
+Quelles applications utiles peuvent en découler ?  
+
+### 4.o - TP LEÇON 16 SÉANCE 2    
+------------------------------  
+
+**Objectif du TP** :  
+---------------------------------  
+Comprendre la nature du courant dans les électrolytes.      
+    
+**Précautions à prendre** :  
+--------------------------------
+
+
+**Matériel nécessaire** :  
+-----------------------------  
+
+- tube en U
+- tuyau
+- entonnoir
+- électrodes en graphite (2)
+- source de tension continue (générateur)
+- solution aqueuse de sulfate de cuivre
+- solution aqueuse de dichromate de potassium
+- acide sulfurique
+- eau distillée
+  
+**Schéma**  
+-----------------------------------  
+  
+**Procédures** :  
+------------------------------  
+
+1.Mélangez les solutions de sulfate de cuivre et de dichromate de potassium         
+2.Versez le mélange dans l'entonnoir  
+3.Après avoir rincé le tube à l'eau distillée, ajoutez l'acide sulfurique dans le tube    
+4.Ouvrez délicatement le robinet pour laisser le mélange entrer  
+5.Insérez une électrode en grapite dans chacune des ouvertures du tube   
+6.Connectez les électrodes au générateur  
+7.Mettez le générateur en marche  
+8.Attendez 5 minutes  
+9.Notez ce que vous voyez  
+10.Attendez 10 minutes  
+11.Notez ce que vous voyez  
+12.Attendez 20 minutes    
+13.Notez ce que vous voyez  
+
+    
+**Conclusion** :  
+---------------------------
+A quoi reconnaît-on que les ions ont migré ?    
 
