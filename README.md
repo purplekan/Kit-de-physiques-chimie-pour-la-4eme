@@ -717,7 +717,7 @@ A quoi reconnaît-on que les ions ont migré ?
 
 **Objectif du TP** :  
 ---------------------------------  
-Comprendre le fonctionnemen de la génératrice d'une bibliothèque.       
+Comprendre le fonctionnement de la génératrice d'une bibliothèque.       
     
 **Précautions à prendre** :  
 --------------------------------
@@ -737,19 +737,54 @@ Comprendre le fonctionnemen de la génératrice d'une bibliothèque.
 **Procédures** :  
 ------------------------------  
 
-1.Connectez en série la lampe et la génératrice  
-2.Tournez le galet de la génératrice   
-3.Notez ce que vous voyez      
-4.Tournez le galet plus vite  
-5.Notez ce que vous voyez
-6.Arrêtez de tourner
-7.Noter ce que vous voyez
+1.Connectez en série la lampe et la génératrice   
+2.Tournez le galet de la génératrice    
+3.Notez ce que vous voyez       
+4.Tournez le galet plus vite    
+5.Notez ce que vous voyez  
+6.Arrêtez de tourner  
+7.Noter ce que vous voyez  
 8.Répétez les étapes 1,2,3,4,5,6,7 en remplaçant la lampe par un voltmètre  
  
 
     
 **Conclusion** :  
 ---------------------------
-Pourquoi la lampe s'allume t-elle quand on roule le vélo ?
+Pourquoi la lampe s'allume t-elle quand on roule le vélo ?  
+
   
+### 4.q - TP LEÇON 21 SÉANCE 1    
+------------------------------  
+
+**Objectif du TP** :  
+---------------------------------  
+Comprendre l'effet de la diode sur la tension alternative.
+    
+**Précautions à prendre** :  
+--------------------------------
+
+
+**Matériel nécessaire** :  
+-----------------------------  
+
+- source de tension alternative
+- lampe
+- oscillographe
+- diode
+- fils de connexion
+  
+**Schéma**  
+-----------------------------------  
+  
+**Procédures** :  
+------------------------------  
+
+1.Connectez en dérivation la source de tension, la lampe et l'oscillographe      
+2.Observez l'oscillographe et notez ce que vous voyez  
+3.Branchez la diode et l'oscillographe en série  
+4.Observez l'oscillographe et notez ce que vous voyez  
+    
+**Conclusion** :  
+---------------------------
+Quelle est l'influence de la diode sur la tension ?   
 
