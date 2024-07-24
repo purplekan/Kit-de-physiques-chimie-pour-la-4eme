@@ -727,7 +727,8 @@ Comprendre le fonctionnemen de la génératrice d'une bibliothèque.
 -----------------------------  
 
 - génératrice
-- lampes
+- lampe
+- voltmètre
 - fils de connexion
   
 **Schéma**  
@@ -738,21 +739,17 @@ Comprendre le fonctionnemen de la génératrice d'une bibliothèque.
 
 1.Connectez en série la lampe et la génératrice  
 2.Tournez le galet de la génératrice   
-3.Après avoir rincé le tube à l'eau distillée, ajoutez l'acide sulfurique dans le tube    
-4.Ouvrez délicatement le robinet pour laisser le mélange entrer  
-5.Insérez une électrode en grapite dans chacune des ouvertures du tube   
-6.Connectez les électrodes au générateur  
-7.Mettez le générateur en marche  
-8.Attendez 5 minutes  
-9.Notez ce que vous voyez  
-10.Attendez 10 minutes  
-11.Notez ce que vous voyez  
-12.Attendez 20 minutes    
-13.Notez ce que vous voyez  
+3.Notez ce que vous voyez      
+4.Tournez le galet plus vite  
+5.Notez ce que vous voyez
+6.Arrêtez de tourner
+7.Noter ce que vous voyez
+8.Répétez les étapes 1,2,3,4,5,6,7 en remplaçant la lampe par un voltmètre  
+ 
 
     
 **Conclusion** :  
 ---------------------------
-A quoi reconnaît-on que les ions ont migré ?  
+Pourquoi la lampe s'allume t-elle quand on roule le vélo ?
   
 
