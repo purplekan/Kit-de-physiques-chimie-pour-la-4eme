@@ -788,3 +788,42 @@ Comprendre l'effet de la diode sur la tension alternative.
 ---------------------------
 Quelle est l'influence de la diode sur la tension ?   
 
+### 4.r - TP LEÇON 21 SÉANCE 2    
+------------------------------  
+
+**Objectif du TP** :  
+---------------------------------  
+Transformer le courant alternatif en courant continu.
+    
+**Précautions à prendre** :  
+--------------------------------
+
+
+**Matériel nécessaire** :  
+-----------------------------  
+
+- source de tension alternative
+- lampe
+- oscillographe
+- diodes (4)
+- diode zener
+- condensateur
+- fils de connexion
+  
+**Schéma**  
+-----------------------------------  
+  
+**Procédures** :  
+------------------------------  
+
+1.Connectez en dérivation les diodes montées avec la source de tension en pont de Graetz, la lampe, le condensateur et l'oscillographe     
+2.Observez l'oscillographe et notez ce que vous voyez   
+3.Branchez la diode zener et l'oscillographe en dérivation  
+4.Observez l'oscillographe et notez ce que vous voyez  
+    
+**Conclusion** :  
+---------------------------
+Quelle est l'influence du condensateur sur la tension ?  
+Quel est le rôle du pont de diode dans le circuit ?  
+Comment alors transformer le courant alternatif en courant continu ?
+
